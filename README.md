@@ -1,21 +1,17 @@
-## Hey 👋, I'm Clarke, Veteran and new Developer
+<h1 align="center">Hey 👋, I'm Clarke</h1>
+<h3 align="center">A veteran and new developer</h3>
 
+- ⚡ In August 2024 **I began my software engineering bootcamp through TripleTen.**
 
-- ⚡ In August 2024, I began my software engineering bootcamp through TripleTen.
-- 🔭 I’m currently learning the fundamentals of HMTL, CSS and JavaScript.
-- 📕 I'm building a portfolio and documenting the process on YouTube to help other career changers.
+- 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
-### Languages and Tools:
-![image](https://github.com/user-attachments/assets/d9b3a56f-51e2-4dc1-8318-1d93c0679d57)
-![image](https://github.com/user-attachments/assets/30f9d18e-f156-4616-b042-96b9d2ac5443)
-![image](https://github.com/user-attachments/assets/cfc21eee-9a3b-41f0-8dd1-47482e2d1867)
-![image](https://github.com/user-attachments/assets/6a7be8db-6447-41ab-ac00-cd6f2f3c070c)
-![image](https://github.com/user-attachments/assets/ce0e8b1f-2ede-4176-b570-64d98b473998)
-![image](https://github.com/user-attachments/assets/5a003dc2-14e6-4f85-b1aa-1f6708033d92)
-![image](https://github.com/user-attachments/assets/714de4d6-188b-46b6-b0a0-4695a725bcd3)
+- 📕 I'm building [a portfolio and documenting the process on YouTube to help other career changers.](https://www.youtube.com/@code4reps)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/clarke brodnicki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clarke brodnicki" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/code 4 reps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code 4 reps" height="30" width="40" /></a>
+</p>
 
-
-#### Connect with me:
-[![image](https://github.com/user-attachments/assets/9e8b5b5f-940d-466a-aec1-80a29570d267)](https://www.youtube.com/@code4reps)
-[![image](https://github.com/user-attachments/assets/658d58fc-9956-4791-98fc-d15e26ae2ff4)](https://www.linkedin.com/in/clarke-brodnicki-0b204a2aa/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
