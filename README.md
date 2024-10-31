@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Clarke</h1>
 <h3 align="center">A veteran and new developer</h3>
 
-- ⚡ In August 2024 **I began my software engineering bootcamp through TripleTen.**
+- ⚡ In August 2024, **I began my software engineering bootcamp through TripleTen.**
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript.**
 
 - 📕 I'm building [a portfolio and documenting the process on YouTube to help other career changers.](https://www.youtube.com/@code4reps)
 
