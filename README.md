@@ -12,4 +12,4 @@
 
 #### Connect with me:
 [![image](https://github.com/user-attachments/assets/9e8b5b5f-940d-466a-aec1-80a29570d267)](https://www.youtube.com/@code4reps)
-[![image](![image](https://github.com/user-attachments/assets/658d58fc-9956-4791-98fc-d15e26ae2ff4)](https://www.linkedin.com/in/clarke-brodnicki-0b204a2aa/)
+[!([image](https://github.com/user-attachments/assets/658d58fc-9956-4791-98fc-d15e26ae2ff4)](https://www.linkedin.com/in/clarke-brodnicki-0b204a2aa/)
