@@ -12,4 +12,5 @@
 
 #### Connect with me:
 [![image](https://github.com/user-attachments/assets/9e8b5b5f-940d-466a-aec1-80a29570d267)](https://www.youtube.com/@code4reps)
-https://www.linkedin.com/in/clarke-brodnicki-0b204a2aa/
+[![image](https://github.com/user-attachments/assets/c32d0b69-04c2-45a3-88a5-5d1c9604ed14)
+](https://www.linkedin.com/in/clarke-brodnicki-0b204a2aa/)
